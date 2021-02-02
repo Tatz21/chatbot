@@ -21,4 +21,6 @@ target 'dontknow' do
   #  post_install do |installer|
   #    flipper_post_install(installer)
   #  end
+  pod 'react-native-dialogflow', :path => '../node_modules/react-native-dialogflow'
+
 end
