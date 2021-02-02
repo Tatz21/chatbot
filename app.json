@@ -1,0 +1,12 @@
+{
+  "name": "dontknow",
+  "displayName": "dontknow",
+  "expo": {
+    "name": "dontknow",
+    "slug": "dontknow",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
